@@ -4,4 +4,3 @@ console.log("Miau")
 
 console.log("ronroneo");
 
-let juguetes=['raton','pelota']
