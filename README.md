@@ -1,5 +1,5 @@
-#Practica de la clase 
-##Naty
-##Antonio
-##Seguimos avanzando!
+# **Practica de la clase** 
+## Naty
+## Antonio
+## Seguimos avanzando!
 
